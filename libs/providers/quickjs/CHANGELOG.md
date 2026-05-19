@@ -1,5 +1,11 @@
 # @langchain/quickjs
 
+## 0.4.1
+
+### Patch Changes
+
+- [#500](https://github.com/langchain-ai/deepagentsjs/pull/500) [`bfb6eec`](https://github.com/langchain-ai/deepagentsjs/commit/bfb6eecdfe617645b3bdebf9a60d4b08e575cef7) Thanks [@colifran](https://github.com/colifran)! - feat(quickjs): add swarm task tool
+
 ## 0.4.0
 
 ### Minor Changes

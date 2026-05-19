@@ -1,5 +1,13 @@
 # deepagents
 
+## 1.10.3
+
+### Patch Changes
+
+- [#500](https://github.com/langchain-ai/deepagentsjs/pull/500) [`bfb6eec`](https://github.com/langchain-ai/deepagentsjs/commit/bfb6eecdfe617645b3bdebf9a60d4b08e575cef7) Thanks [@colifran](https://github.com/colifran)! - feat(quickjs): add swarm task tool
+
+- [#537](https://github.com/langchain-ai/deepagentsjs/pull/537) [`f6d3f13`](https://github.com/langchain-ai/deepagentsjs/commit/f6d3f13559bd2d9dfad63e379b59ad7577e828be) Thanks [@hntrl](https://github.com/hntrl)! - bump langsmith sdk version
+
 ## 1.10.2
 
 ### Patch Changes
